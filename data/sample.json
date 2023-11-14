@@ -1,0 +1,10 @@
+{
+  "weather": "sunny",
+  "temperature": 25,
+  "wind_speed": 30.0,
+  "humidity": null,
+  "precipitation": null,
+  "visibility": "good",
+  "air_quality": null,
+  "real_feel_temperature": null
+}
