@@ -104,7 +104,7 @@ train:  ## Run train
 	  --eval_local_path_to_data $(EVAL_LOCAL_PATH_TO_DATA) \
 	  --use_gradient_checkpointing True \
 	  --deepspeed_stage 0 \
-	  --stabilize True \
+	  --stabilize False \
 	  --model_name_or_path $(MODEL_NAME_OR_PATH) \
 	  --use_flash_attention_2 $(USE_FLASH_ATTENTION_2) \
 	  --load_in_4bit True \
