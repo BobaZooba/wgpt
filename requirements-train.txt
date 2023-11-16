@@ -1,4 +1,4 @@
 xllm[train]
 transformers
-openai
+openai<1.0.0
 fire
