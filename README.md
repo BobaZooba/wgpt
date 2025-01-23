@@ -1,8 +1,7 @@
 # WeatherGPT: Generate valid JSON from weather descriptions
 
 This repository features an example of how to utilize the `xllm` library. Included is a solution for a common type of
-assessment given to LLM engineers, who typically earn between $120,000 to $140,000 annually. The work, which took 6-7
-hours to complete, is representative of actual tasks in the field.
+assessment given to LLM engineers. The work, which took 6-7 hours to complete, is representative of actual tasks in the field.
 
 [<img src="https://github.com/BobaZooba/xllm/blob/main/static/images/xllm-badge.png" alt="Powered by X—LLM" width="175" height="32"/>](https://github.com/BobaZooba/xllm)
 
